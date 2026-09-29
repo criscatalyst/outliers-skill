@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repo has moved to [criscatalyst/creator-skills](https://github.com/criscatalyst/creator-skills/tree/main/skills/outliers).** It is archived and no longer updated: the latest version of this skill lives there.
+>
+> Install it as a plugin in Claude Code: `/plugin marketplace add criscatalyst/creator-skills` then `/plugin install outliers@creator-skills`.
+
 # Outliers — Claude Code skill
 
 YouTube outlier detection + content-aware title variant generation.
